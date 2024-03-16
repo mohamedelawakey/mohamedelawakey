@@ -16,7 +16,7 @@
 </h4>
 	
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+<img align="center" src="https://media.tenor.com/U3gdp2isP3EAAAAd/programming-software-testing.gif" width= 45% height=95px>
 
 ### Languages and Tools 🛠 : 
 
@@ -27,7 +27,6 @@
 - ### I’m currently learning 
 ![Java](https://img.shields.io/badge/-Java-%23FF5722?style=flat-square&logo=java&logoColor=ffffff)
 ![Software Testing](https://img.shields.io/badge/-Software%20Testing-%238DC63F?style=flat-square)
-![Java](https://img.shields.io/badge/-Java-%23FF5722?style=flat-square&logo=java&logoColor=ffffff) Java
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
@@ -42,5 +41,3 @@
 
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
-
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript  :"D
