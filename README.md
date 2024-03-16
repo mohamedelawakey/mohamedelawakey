@@ -9,7 +9,7 @@
 	<img align="right" src="https://media.tenor.com/U3gdp2isP3EAAAAd/programming-software-testing.gif" alt="Coder GIF" width="380" height="280">
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Ahmed+Tarek!;I'm+a+software+engineer;Welcome+to+my+profile!" style="color:mix" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Mohammed+Mostafa!;I'm+a+software+tester;Welcome+to+my+profile!" style="color:mix" />
 </p>
 
 <h3>🚀 About Me</h3> 
