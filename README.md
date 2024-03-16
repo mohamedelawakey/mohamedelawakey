@@ -27,6 +27,8 @@
 - ### I’m currently learning 
 ![Java](https://img.shields.io/badge/-Java-%23FF5722?style=flat-square&logo=java&logoColor=ffffff)
 ![Software Testing](https://img.shields.io/badge/-Software%20Testing-%238DC63F?style=flat-square)
+![Java](https://img.shields.io/badge/-Java-%23FF5722?style=flat-square&logo=java&logoColor=ffffff) Java
+
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
