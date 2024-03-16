@@ -4,9 +4,8 @@
 
 <br/>
 <br/>
-	<img align="right" src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif]" width="380" height="280">
+	<img align="right" (https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="380" height="280">
 
-![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 <h3>🚀 About Me</h3> 
