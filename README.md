@@ -8,7 +8,9 @@
 	<img align="right" src="https://i.pinimg.com/originals/79/46/c1/7946c1560bd96ac3981daaa86d6716b9.gif" alt="Coder GIF" width="380" height="280">
 	<img align="right" src="https://media.tenor.com/U3gdp2isP3EAAAAd/programming-software-testing.gif" alt="Coder GIF" width="380" height="280">
 -->
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Ahmed+Tarek!;I'm+a+software+engineer;Welcome+to+my+profile!" style="color:mix" />
+</p>
 
 <h3>🚀 About Me</h3> 
 <h4>
