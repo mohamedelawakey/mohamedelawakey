@@ -19,8 +19,9 @@
 
 ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
-
-
+![Java](https://img.shields.io/badge/-Java-%23FF5722?style=flat-square&logo=java&logoColor=ffffff)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 - ### I’m currently learning 
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
