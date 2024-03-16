@@ -4,8 +4,8 @@
 
 <br/>
 <br/>
-	![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+	<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF">
+
 
 
 
