@@ -9,10 +9,10 @@
 
 
 <h3>🚀 About Me</h3> 
-<pre>
+<bre>
 <h4> I'm Mohammed Mostafa from Egypt. I'm a student. I'm learnning computer science 
 	at the university, and software testing as my career </h4>
-<\pre>
+</bre>
 
 	
 
