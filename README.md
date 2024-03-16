@@ -1,4 +1,14 @@
 ### Hi there 👋
+document.addEventListener("DOMContentLoaded", function() {
+    var image = document.getElementById("animatedImage");
+
+    function moveImage() {
+        var newX = Math.floor(Math.random() * 300); 
+        var newY = Math.floor(Math.random() * 300); 
+        image.style.transform = "translate(" + newX + "px, " + newY + "px)";
+    }
+    setInterval(moveImage, 3000);
+});
 
 <!--
 **mohamedelawakey/mohamedelawakey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
