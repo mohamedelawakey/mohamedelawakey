@@ -11,9 +11,8 @@
 
 <h3>🚀 About Me</h3> 
 <h4>
-	I'm Mohammed Mostafa from Egypt. I'm a student. I'm learnning<br> 
-	computer science at the university, and software testing as my 
-	career 
+	I'm Mohammed Mostafa from Egypt. I'm a student. I'm learnning <br> 
+	computer science at the university, and software testing as my <br> career 
 </h4>
 	
 
