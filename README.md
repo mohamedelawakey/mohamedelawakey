@@ -28,10 +28,10 @@
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
  ### 🔗Contact Me
-[![FaceBook](https://www.facebook.com/profile.php?id=100025273931597&mibextid=JRoKGi)
-[![Linkedin](https://www.linkedin.com/in/eng-mohamed-mostafa-el-awakey-a9015024b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
-[![Instagram](https://www.instagram.com/mhmdlwqy24.06/?igsh=cjF1c3dxeHZ1YzFz)
-[![Whatsapp](‏https://wa.me/qr/3G4DOBQMAGPLJ1)
+[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100025273931597&mibextid=JRoKGi)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-mohamed-mostafa-el-awakey-a9015024b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhmdlwqy24.06/?igsh=cjF1c3dxeHZ1YzFz)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](‏https://wa.me/qr/3G4DOBQMAGPLJ1)
 
 
 
