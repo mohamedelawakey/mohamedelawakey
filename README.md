@@ -10,8 +10,8 @@
 
 <h3>🚀 About Me</h3> 
 <h4>
-<bre> I'm Mohammed Mostafa from Egypt. I'm a student. I'm learnning computer science 
-	at the university, and software testing as my career 
+<bre> I'm Mohammed Mostafa from Egypt. I'm a student. I'm learnning 
+	computer science at the university, and software testing as my career 
 </bre>
 </h4>
 	
