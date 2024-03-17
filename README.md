@@ -28,7 +28,7 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 - ### I’m currently learning 
-![Java](https://img.shields.io/badge/-Java-%23FF5722?style=flat-square&logo=java&logoColor=ffffff)
+![java](https://custom-icon-badges.demolab.com/badge/Java-013.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Software Testing⚙️](https://img.shields.io/badge/-Software%20Testing-%238DC63F?style=flat-square)
 
 
