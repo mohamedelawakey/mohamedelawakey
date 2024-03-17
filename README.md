@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> My Name is Mohammed Mostafa, Welcome To My Github Profile ♥</h1>
+<h1 align="center">Hello! 👋  My Name is Mohammed Mostafa, Welcome To My Github Profile ♥</h1>
 
 <br/>
 <br/>
@@ -29,10 +29,10 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio"></code>
 
-- ### I’m currently learning 
-![java](https://custom-icon-badges.demolab.com/badge/Java-013.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Software Testing⚙](https://img.shields.io/badge/-Software%20Testing-%238DC63F?style=flat-square)
+- ### I’m currently learning
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+![Software Testing⚙](https://img.shields.io/badge/-Software%20Testing-%238DC63F?style=flat-square)
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
