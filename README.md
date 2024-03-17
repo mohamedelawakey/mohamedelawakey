@@ -24,6 +24,7 @@
 
 <h2><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width=45> Tech Stack</h2>
 
+
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio"></code>
@@ -31,6 +32,7 @@
 - ### I’m currently learning 
 ![java](https://custom-icon-badges.demolab.com/badge/Java-013.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Software Testing⚙️](https://img.shields.io/badge/-Software%20Testing-%238DC63F?style=flat-square)
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/QA-icon.svg/768px-QA-icon.svg.png" alt="software-testing"></code>
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
