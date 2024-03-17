@@ -31,8 +31,10 @@
 
 - ### I’m currently learning
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+
 <img src="https://img.shields.io/badge/-Software%20Testing-%238DC63F?style=flat-square" alt="Software Testing">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+
 
 
 
