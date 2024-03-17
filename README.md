@@ -32,7 +32,8 @@
 - ### I’m currently learning
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-![Software Testing](https://img.shields.io/badge/-Software%20Testing-%238DC63F?style=flat-square)
+<img src="https://img.shields.io/badge/-Software%20Testing-%238DC63F?style=flat-square" alt="Software Testing">
+
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
