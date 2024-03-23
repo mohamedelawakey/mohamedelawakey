@@ -24,7 +24,7 @@
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
-<h2><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width=45> Tools/h2>
+<h2><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width=45> Tools </h2>
 
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
