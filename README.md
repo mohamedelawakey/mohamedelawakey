@@ -8,7 +8,7 @@
 <!--image gif & about me-->
 <div >
     <p align="right">
-        <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Descriptive Text for the GIF" width="380" height="280" />
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFlanR0ejFxdzB5MHV6NmF1ZG1zZm1zbGJranZtbTdoamE3ZXA0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" alt="Descriptive Text for the GIF" width="380" height="280" />
     </p>
     <h1 align="left">
         🚀 About Me:
