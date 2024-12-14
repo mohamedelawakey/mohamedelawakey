@@ -1,7 +1,7 @@
 <!--svg words-->
 <div align="center">
     <h1> 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=35&duration=3000&color=mix&center=true&vCenter=true&width=435&lines=I'm+Mohamed+Alawakey;a+Data+Analysis;Welcome+to+my+profile;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=35&duration=3000&color=mix&center=true&vCenter=true&width=435&lines=I'm+Mohamed+Alawakey;a+Data+Scientist;Welcome+to+my+profile;" alt="Typing SVG"/>
     </h1>
 </div>
 
@@ -14,7 +14,7 @@
         🚀 About Me:
     </h1>
     <h2 align="left">
-        I'm Mohamed Alawakey, I'm an Information Systems Engineering student at Tanta University, and I'm an intern Data Analysis.
+        I'm Mohamed Alawakey, I'm an Information Systems Engineering student at Tanta University, and I'm an intern Data Scientist.
     </h2>
 </div>
 <br>
