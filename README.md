@@ -8,13 +8,13 @@
 <!--image gif & about me-->
 <div >
     <p align="right">
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFlanR0ejFxdzB5MHV6NmF1ZG1zZm1zbGJranZtbTdoamE3ZXA0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" alt="Descriptive Text for the GIF" width="380" height="280" />
+        <img src="https://imarticus.org/blog/wp-content/uploads/2021/12/gew.gif" alt="Descriptive Text for the GIF" width="380" height="280" />
     </p>
     <h1 align="left">
         🚀 About Me:
     </h1>
     <h2 align="left">
-        I'm Mohamed Alawakey, I'm an Information Systems Engineering student at Tanta University, and I'm an intern Data Scientist.
+        I'm Mohamed Alawakey, I'm an Information Systems Engineering student at Tanta University, and I'm an intern Data Scientist. 
     </h2>
 </div>
 <br>
