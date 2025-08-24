@@ -39,7 +39,9 @@
         <img  height="40" src="https://cdn-icons-png.flaticon.com/512/8345/8345929.png" alt="ML" />
         <img  height="40" src="https://static.vecteezy.com/system/resources/previews/022/597/198/original/3d-file-sql-icon-illustration-png.png" alt="SQL" />
         <img  height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kaggle_Logo.svg/800px-Kaggle_Logo.svg.png" alt="Kaggle" />
+        <!--
         <img  height="40" src="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-6.jpg" alt="Terminal" />
+        -->
         <img  height="40" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" alt="Git" />
         <img  height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="GitHup" />
         <!-- <img  height="40" src="" alt="" /> -->
