@@ -75,7 +75,7 @@
         <img  height="40" src="https://cdn3.emoji.gg/emojis/7377_code_blocks.png" alt="code_blocks" />
         <img  height="40" src="https://images.icon-icons.com/2667/PNG/512/jupyter_app_icon_161280.png" alt="Jupyter__Notebook" />
         <img  height="40" src="https://raw.githubusercontent.com/gist/egormkn/672764e7ce3bdaf549b62a5e70eece79/raw/559e34c690ea4765001d4ba0e715106edea7439f/jupyter-lab.svg" alt="JupyterLab" />
-        <img  height="40" src="https://img.icons8.com/?size=512&id=lOqoeP2Zy02f&format=png" alt="Google Colab" />
+        <img  height="40" src="https://img.icons8.com/?size=512&id=lOqoeP2Zy02f&format=png" alt="Google Colab" /> 
     </div>
 </div>
 <br>
