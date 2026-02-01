@@ -12,7 +12,7 @@
 
 <div align="center">
   <p>
-    🎓 <b>ISE Student</b> at Tanta University &nbsp;|&nbsp; 🚀 <b>Building Real-World AI Solutions</b>
+    🎓 <b>ISE Student</b> at Tanta University</b>
     <br/>
     <i>Moving beyond theory: I design scalable LLM systems, build production-ready NLP pipelines, and turn data into actionable intelligence.</i>
   </p>
